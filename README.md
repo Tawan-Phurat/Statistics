@@ -1,29 +1,32 @@
 # Statistics for Data Science using Python
-Using Python, learn statistical and probabilistic approaches to understand and gain insights from data. Learning statistical concepts are very important to Data science domain and its application using Python. Learn about Numpy, Pandas Data Frame.
+วิชานี้เลือกใช้ภาษา Python เป็นเครื่องมือในการศึกษาเกี่ยวกับทฤษฎีความน่าจะเป็น หลักสถิติเชิงประยุกต์ เพื่อทำความเข้าใจและฝึกฝนทักษะด้านการวิเคราะห์ข้อมูล ฝึกทำความเข้าใจเกี่ยวกับข้อมูล (insights) การศึกษาสถิติมีความจำเป็นสำหรับงานด้านวิทยาการข้อมูลและการประยุกต์ใช้ภาษาไพธอน ซึ่งจะต้องฝึกฝนใช้ Numpy, Pandas Data Frame. ให้เกิดความคุ้นเคย
 
 ### Statistics: 
-Science of Average and their Estimate
+
+เป็นศาสตร์ที่ว่าด้วยค่าเฉลี่ย การประมาณการ 
 
 ### Data Science: 
-Data Science is primarily used to make decisions and predictions.
+
+วิทยากรข้อมูลเป็นกุญสำคัญที่ช่วยให้เกิดการตัดสินใจและการพยากรสิ่งที่อาจจะเกิดขึ้น
 
 ### Business Intelligence: 
-Enable the business to make intelligent, fact-based decision.
 
+ทำให้ธุรกิจสามารถทำกำไรจากการตัดสินใจดำเนินการต่างๆบนฐานของการวิเคราะห์ข้อมูล 
 
 # Table of Content
-1. Data and its Types
-2. Variable and it's Types
-3. Sample and Population
-4. Sampling Techniques
-5. Descriptive Statistics
-6. Information Gain and Entropy
-7. Probability and it's Uses
-8. Probability Distribution
-9. Baye's Theorem
-10. Statistical Inference
-11. Hypothesis Testing
-12. Testing the Data
+
+1. ข้อมูล และชนิดของข้อมูล (Data and its Types)
+2. ตัวแปร และประเภทของตัวแปร (Variable and it's Types)
+3. การสุ่มและประชากร (Sample and Population)
+4. เทคนิคที่ใช้ในการสุ่ม (Sampling Techniques)
+5. สถิติเชิงพรรรณา (Descriptive Statistics)
+6. เกณฑ์และเอนทรอปีของข้อมูล Information Gain and Entropy
+7. ความน่าจะเป็นและการประยุกต์ใช้ Probability and it's Uses
+8. การแจกแจงความน่าจะเป็น Probability Distribution
+9. ทฤฎีเบย์ Baye's Theorem
+10.การอนุมานทางสถิติ Statistical Inference
+11.การทดสอบสมมุติฐาน  Hypothesis Testing
+12.การทดสอบข้อมูล Testing the Data
 
 
 ### What is statistics?
