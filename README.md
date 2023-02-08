@@ -16,17 +16,17 @@
 # Table of Content
 
 1. ข้อมูล และชนิดของข้อมูล (Data and its Types)
-2. ตัวแปร และประเภทของตัวแปร (Variable and it's Types)
-3. การสุ่มและประชากร (Sample and Population)
-4. เทคนิคที่ใช้ในการสุ่ม (Sampling Techniques)
-5. สถิติเชิงพรรรณา (Descriptive Statistics)
-6. เกณฑ์และเอนทรอปีของข้อมูล Information Gain and Entropy
-7. ความน่าจะเป็นและการประยุกต์ใช้ Probability and it's Uses
-8. การแจกแจงความน่าจะเป็น Probability Distribution
-9. ทฤฎีเบย์ Baye's Theorem
-10.การอนุมานทางสถิติ Statistical Inference
-11.การทดสอบสมมุติฐาน  Hypothesis Testing
-12.การทดสอบข้อมูล Testing the Data
+1. ตัวแปร และประเภทของตัวแปร (Variable and it's Types)
+1. การสุ่มและประชากร (Sample and Population)
+1. เทคนิคที่ใช้ในการสุ่ม (Sampling Techniques)
+1. สถิติเชิงพรรรณา (Descriptive Statistics)
+1. เกณฑ์และเอนทรอปีของข้อมูล Information Gain and Entropy
+1. ความน่าจะเป็นและการประยุกต์ใช้ Probability and it's Uses
+1. การแจกแจงความน่าจะเป็น Probability Distribution
+1. ทฤฎีเบย์ Baye's Theorem
+1. การอนุมานทางสถิติ Statistical Inference
+1. การทดสอบสมมุติฐาน  Hypothesis Testing
+1. การทดสอบข้อมูล Testing the Data
 
 
 ### What is statistics?
