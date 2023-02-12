@@ -29,23 +29,26 @@
 1. การทดสอบข้อมูล Testing the Data
 
 
-### What is statistics?
-Statistics Definition: (Science of Average and their Estimate)
-Statistics is the science of collecting, organizing, presenting, analyzing and interpreting data for specific purpose to help in making more effective decision.
+### สถิติคือ ?
+สถิติในเชิงนิยาม: (เป็นศาสตร์ที่ประมาณการด้วยค่าเฉลี่ย)
+เป็นศาสตร์ที่ว่าด้วยการเก็บรวบรวมข้อมูล การจัดการข้อมูล การนำเสอน และแปลความหมายของข้อมูล เพื่อวัตถุประสงค์ช่วยให้เข้าใจและตัดสินใจดำเนินการได้ดียิ่งขึ้น
 
-#### Why study statistics:
-To make more effective decision for the betterment of individual, society, business, nature and so on
 
-#### Statistical Analysis:
+#### ใครควรเรียนสถิติ :
+ผู้ทีต้องการการตัดสินใจอย่างมีประสิทธิผล เพื่อให้กิจการ หรือการดำเนินการดีขึ้น
 
-Statistical analysis is implemented to manipulate, summarize, and investigate data, so that useful decision making information results are obtained.
+
+#### การวิเคราะห์ทางสถิติ:
+
+เป็นการสรุปเพื่อค้นหาข้อมูลเป็นประโยชน์เพื่อให้ทราบถึงสถานะปัจจุบันหรือพยากรณ์แนวโน้มในอนาคตเพื่อที่จะนำไปใช้ประกอบการตัดสินใจ  
 
 ##### Two type of statistics:
 
-1. Descriptive Statistics (used to describe the basic features of the data)
+1.สถิติเชิงพรรณา  เพื่ออธิบายคุณสมบติของข้อมูล 
 
-2. Inferential statistics (aims at learning characteristics of the population from a sample)
+2. สถิติเชิงอุปนัย เพื่อศึกษาคุณลักษณะของประชากรจากการตัวอย่างที่สุ่ม 
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
 # 1. Data and its Types
 #### What is data?
